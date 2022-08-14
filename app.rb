@@ -20,3 +20,7 @@ end
 get '/mizumotokazuki' do
   'Hello mizumotokazuki!'
 end
+
+get '/yunoCRAZY' do
+  'Hello yunoCRAZY!'
+end
