@@ -16,3 +16,7 @@ end
 get '/challecara' do
   'Hello world!'
 end
+
+get '/yunoCRAZY' do
+  'Hello yunoCRAZY!'
+end
